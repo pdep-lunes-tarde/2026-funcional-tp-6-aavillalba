@@ -11,8 +11,8 @@
 
 ## Nombre y legajo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **234.265-0** 
+- Nombre: **Aarón Villalba**
 
 ## El enunciado
 
